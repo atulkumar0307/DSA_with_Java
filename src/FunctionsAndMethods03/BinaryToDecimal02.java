@@ -2,6 +2,7 @@ package FunctionsAndMethods03;
 import java.util.*;
 public class BinaryToDecimal02 {
 
+    // Convert Binary to decimal number
     public static int binaryToDecimal(int bin){
         int pow = 0;
         int dec = 0;
