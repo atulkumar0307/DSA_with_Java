@@ -1,4 +1,4 @@
-package Patterns01;
+package Patterns02;
 import java.util.*;
 
 public class Pattern01 {
